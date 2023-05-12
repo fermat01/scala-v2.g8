@@ -9,19 +9,19 @@ All versions will always stay hardcoded as opposed to being chooseable or automa
 Configure your Scala dev environment [in minutes](https://github.com/fermat01/scala-v2)!
 
 ```bash
-sbt new fermat01/scala-seed.g8  # for Scala 2
+sbt new fermat01/scala-v2.g8  # for Scala 2
 ```
 ```bash
-sbt new  fermat01/scala3-seed.g8 # for Scala 3
+sbt new  fermat01/scala3-v3.g8 # for Scala 3
 ```
 
 or
 
 ```bash
-g8  fermat01/scala-seed  # for Scala 2
+g8  fermat01/scala-v2  # for Scala 2
 ```
 ```bash
-g8 fermat01/scala3-seed # for Scala 3
+g8 fermat01/scala3-v3 # for Scala 3
 ```
 Watch this [video](https://www.youtube.com/watch?v=nD-p-cEKjHE) for more details.
 
